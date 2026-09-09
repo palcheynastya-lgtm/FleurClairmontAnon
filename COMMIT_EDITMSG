@@ -1,0 +1,9 @@
+Remove unused mockup sandbox artifact from project
+
+Removes the `mockup-sandbox` artifact configuration and associated files from the project. This action is taken to resolve deployment issues related to artifact limits on the free tier and to ensure only the core API server remains as a registered artifact.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: f82a5da0-cef7-4d1e-bc4f-787cc08e48c7
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 3b0a53ef-38e6-491e-919c-f2e7350b92fb
+Replit-Helium-Checkpoint-Created: true
