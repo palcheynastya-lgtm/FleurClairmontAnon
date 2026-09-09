@@ -1,1 +1,19 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 185439bbd2df91aeaa9771363294b00f67cedba6 Replit Agent <agent@replit.com> 1782359813 +0000	commit (initial): Initial commit
+185439bbd2df91aeaa9771363294b00f67cedba6 defbd210ef6bdd4613216524a7b7d16ddf612e05 Replit Agent <agent@replit.com> 1782920451 +0000	commit: Add a Telegram bot for random character phrases and anonymous messages
+defbd210ef6bdd4613216524a7b7d16ddf612e05 dcfb8ccc2cc67e843848d3eda5fe7271f4dfbfb4 Replit Agent <agent@replit.com> 1782920600 +0000	commit: Add commands for managing bot phrases, gossip, and secrets
+dcfb8ccc2cc67e843848d3eda5fe7271f4dfbfb4 db0b99721b2853ecb5540b396a8127537d420dce Replit Agent <agent@replit.com> 1782920776 +0000	commit: Add a command to display anonymous message statistics
+db0b99721b2853ecb5540b396a8127537d420dce 39486c61a8ac4e0e0dac9fcf9817b2bbf39fc587 Replit Agent <agent@replit.com> 1782921017 +0000	commit: Add new features to the Telegram bot for enhanced functionality
+39486c61a8ac4e0e0dac9fcf9817b2bbf39fc587 96a5ce84f9b6f194fd37b4512e425e7e2e757c44 Replit Agent <agent@replit.com> 1782921068 +0000	commit: Add commands to clear all phrases, gossips, and secrets
+96a5ce84f9b6f194fd37b4512e425e7e2e757c44 430dea0ba5445b00c87f848dc84db40955ce207e Replit Agent <agent@replit.com> 1782921400 +0000	commit: Add moderation features to block and warn users
+430dea0ba5445b00c87f848dc84db40955ce207e b1da12fe49f898856e0c1b5b1f9cdf0814c2d041 Replit Agent <agent@replit.com> 1782921532 +0000	commit: Improve spam detection to trigger on the fourth identical message
+b1da12fe49f898856e0c1b5b1f9cdf0814c2d041 3dca59db396d10f89c0370a7687fa568bade5225 Replit Agent <agent@replit.com> 1782921581 +0000	commit: Add a time limit to the spam detection system
+3dca59db396d10f89c0370a7687fa568bade5225 073cda5949ffca2fc39b2800731f09e5df074128 Replit Agent <agent@replit.com> 1782921920 +0000	commit: Add special phrases and unwarn functionality to the Telegram bot
+073cda5949ffca2fc39b2800731f09e5df074128 64a119a4b5c8dcbae8070cbf32fb686fc20f040d Replit Agent <agent@replit.com> 1782922416 +0000	commit: Add a system for managing special users and their custom phrases
+64a119a4b5c8dcbae8070cbf32fb686fc20f040d 837d1afec3f2252e937f687a4f8814d1cfeff0fd Replit Agent <agent@replit.com> 1782941593 +0000	commit: Add a gift-giving system with various categories and customizable cards
+837d1afec3f2252e937f687a4f8814d1cfeff0fd 0946882ba2f8e3c9a61ee58e91588993e589e453 Replit Agent <agent@replit.com> 1782941736 +0000	commit: Allow owners to reply to gift notifications anonymously
+0946882ba2f8e3c9a61ee58e91588993e589e453 8e1f64739bd0d9664d842a4c6291d12f825260c1 Replit Agent <agent@replit.com> 1782941959 +0000	commit: Add anonymous gifting option to Telegram bot
+8e1f64739bd0d9664d842a4c6291d12f825260c1 3db11b39c42aa02a98e0f6b52f93313c6bd0ce9b Replit Agent <agent@replit.com> 1783251396 +0000	commit: Update gift functionality and manage secret phrases
+3db11b39c42aa02a98e0f6b52f93313c6bd0ce9b dd2bc78c1ca889dab024f8ebc6140ef96b635ee7 Replit Agent <agent@replit.com> 1783251541 +0000	commit: Add bot status to health check endpoint
+dd2bc78c1ca889dab024f8ebc6140ef96b635ee7 aba7649e623d8a1373a19918e7a1b3309d2599fd Replit Agent <agent@replit.com> 1783251977 +0000	commit: Remove unused mockup sandbox artifact from project
+aba7649e623d8a1373a19918e7a1b3309d2599fd 5e206afd3f84cb1c0c6efa51acef741a39fc3c8b Replit Agent <agent@replit.com> 1788968662 +0000
+5e206afd3f84cb1c0c6efa51acef741a39fc3c8b 641e731e32c103b7c6c56cda3074763cb7dab385 Replit Agent <agent@replit.com> 1788970655 +0000
